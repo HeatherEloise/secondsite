@@ -1,0 +1,156 @@
+body {
+  background-color: #DFDFDE;
+  color: #40514E;
+  font-family: palatino linotype, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #52616B;
+  font-family: 'Twinkle Star', cursive;
+  font-size: 5rem;
+  line-height: 2;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #006778;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #006778;
+}
+
+h4 {
+  color: #006778;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.hr1 {
+  border-style: dotted none none none;
+  border-width: 5px;
+  color: #EAF6F6;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 15%;
+}
+
+.hr2 {
+  border-style: dotted none none none;
+  border-width: 5px;
+  color: #EAF6F6;
+  width: 15%;
+}
+
+a {
+  color: #11999E;
+  font-family: palatino linotype, sans-serif;
+  padding: 50px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C9D6DF;
+  text-decoration: underline;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 18px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  text-decoration: none;
+}
+
+.bottom-cloud {
+  position: relative;
+  bottom: 300px;
+  right: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 30px;
+  position: relative;
+  top: 50px;
+}
+
+.contact-message {
+  margin: 30px auto;
+  width: 50%;
+}
+
+.coding {
+  float: right;
+  margin-left: 30px;
+  width: 15%;
+}
+
+.intro {
+  margin: auto;
+  width: 30%;
+}
+
+.karen {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.mountain {
+  position: relative;
+  right: 200px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.pro {
+  color: black;
+  text-decoration: underline;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.squareh {
+  position: relative;
+  top: 23px;
+}
+
+.top-cloud {
+  margin-bottom: 10px;
+  position: relative;
+  left: 300px;
+}
+
+.topcontainer {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.trademark {
+  color: white;
+  font-size: 0.85rem;
+  padding-bottom: 20px;
+}
